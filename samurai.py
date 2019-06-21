@@ -1,3 +1,4 @@
+#Property of DataandGoliath. Please don't use in malicious applications, and only on networks you are expressly allowed to test on (i.e., networks you have permission to attack every host on)
 from smb import SMBConnection #pip install pysmb
 from nmb.NetBIOS import NetBIOS
 from threading import *
